@@ -50,8 +50,6 @@ body {
   justify-content: center;
   max-width: 90px;
   max-height: 90px;
-  border: 6px solid grey;
-  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
   transition: all 0.8s ease-in-out;
 }
 
@@ -64,6 +62,7 @@ body {
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
+  border: 2px solid #00ffff
 }
 
 .whyHLetter {
@@ -73,6 +72,7 @@ body {
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Ceviche One', sans-serif;
+  border: 5px solid #c91010;
 }
 
 .whyYLetter {
@@ -82,6 +82,7 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
+  border: 2px solid #00ffff;
 }
 
 /* DID word */
@@ -92,6 +93,7 @@ body {
   color: #c91010;
   text-decoration: underline;
   background-color: rgb(255, 255, 255);
+  border: 6px solid #6403be;
 }
 
 .didILetter {
@@ -100,6 +102,7 @@ body {
   color: #008000;
   text-decoration: dashed;
   background-color: #000000;
+  border: 10px solid hsl(290, 100%, 49%);
 }
 
 .didDTwoLetter {
@@ -108,6 +111,7 @@ body {
   color: #00ffff;
   text-transform: lowercase;
   background-color: rgb(241, 241, 241);
+  border: 6px solid #000000;
 }
 
 /* THE word */
@@ -137,40 +141,113 @@ body {
   text-transform: initial;
   text-decoration: wavy;
   background-color: hwb(80 20% 20%);
-  border: #000000;
+  border: 10px solid rgb(255, 255, 255);
 }
 
 /* FRONT-END word */
 
 .frontendFLetter {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 55px;
+  color: #8b827b;
+  text-decoration: line-through;
+  background-color: #08cc08;
+  text-transform: uppercase;
+  border: 10px solid #000000;
 }
 
 .frontendRLetter {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: #1905cf;
+  text-decoration: verline;
+  background-color: #cfcbc7;
+  text-transform: uppercase;
+  border: 8px solid #008000;
 }
 
 .frontendOLetter {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 60px;
+  color: hwb(60 0% 0%);
+  text-decoration: line-through;
+  background-color: #ee82ee;
+  text-transform: uppercase;
+  border: 6px solid rgb(255, 255, 255);
 }
 
 .frontendNLetter {
+  font-family: fantasy;
+  font-size: 40px;
+  color: #05f14c;
+  text-decoration: line-through;
+  background-color: #e60000;
+  text-transform: uppercase;
+  border: 10px solid #4e7452;
 }
 
 .frontendTLetter {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 70px;
+  color: #f3f3f3;
+  text-decoration: line-through;
+  background-color: #2f00ff;
+  text-transform: unset;
+  border: 10px solid hsl(300, 76%, 72%);
 }
 
 .frontendELetter {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  color: #f0cd0b;
+  text-decoration:double;
+  background-color: #ff0000;
+  text-transform: uppercase;
+  border: 10px solid #000000;
+  box-shadow: 0 -3px 3em rgba(74, 121, 74, 0.3),
 }
 
+
 .frontendNTwoLetter {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 70px;
+  color: #ff0000;
+  text-decoration: dashed;
+  background-color: #00f349;
+  text-transform: uppercase;
+  border: 10px solid #000000;
 }
 
 .frontendDLetter {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  color: #cc00ff;
+  text-decoration:wavy;
+  background-color: #00ffff;
+  text-transform: uppercase;
+  border: 10px solid #ffffff;
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 55px;
+  color: #76a7a0;
+  text-decoration: line-through;
+  background-color: #000000;
+  text-transform: uppercase;
+  border: 10px solid #949494;
 }
 .developerELetter {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: #6535a3;
+  text-decoration: overline;
+  background-color: #fdfdfd;
+  text-transform: lowercase;
+  border: 5px solid #864848;
+  box-shadow: none 0 0 10px #000000;
 }
 .developerVLetter {
 }
@@ -335,7 +412,18 @@ body {
 /* SYMBOLS */
 
 .hyphen {
+  font-size: 20px;
+  color: #af6c6c;
+  text-decoration: line-through;
+  background-color: #742525;
+  text-transform: uppercase;
+  border: 10px solid #00ff80;
+  box-shadow:
+    inset 0 -3em 3em rgba(220, 226, 220, 0.3),
+    0 0 0 2px white,
+    0.3em 0.3em 1em rgb(200 0 0 / 60%);
 }
+
 .exclamation-mark {
 }
 .question-mark {
