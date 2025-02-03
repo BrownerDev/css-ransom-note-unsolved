@@ -118,13 +118,26 @@ body {
   color: #d2691e;
   text-decoration: line-through;
   background-color: #6495ed;
-
+  text-transform: uppercase;
 }
 
 .theHLetter {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: #00ffff;
+  text-decoration: overline;
+  background-color: #d2691e;
+  text-transform: lowercase;
 }
 
 .theELetter {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 70px;
+  color: hsl(0, 59%, 41%);
+  text-transform: initial;
+  text-decoration: wavy;
+  background-color: hwb(80 20% 20%);
+  border: #000000;
 }
 
 /* FRONT-END word */
