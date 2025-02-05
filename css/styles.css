@@ -452,343 +452,216 @@ body {
 .gardeningNTwoLetter {
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	font-size: 50px;
-	color: #000000;
+	color: #4CAF50;
 	text-decoration: wavy;
-	background-color: #000000;
+	background-color: #F0FFF0;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #4CAF50;
 }
 
 .gardeningGTwoLetter {
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	font-size: 50px;
-	color: #000000;
+	color: #2E8B57;
 	text-decoration: wavy;
-	background-color: #000000;
+	background-color: #E6FFE6;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #2E8B57;
 }
 
 .becauseBLetter {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 55px;
-	color: #000000;
+	color: #FF5733;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #FFF5F0;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #FF5733;
 }
 
 .becauseELetter {
 	font-family: 'Times New Roman', Times, serif;
 	font-size: 30px;
-	color: #000000;
+	color: #E67E22;
 	text-decoration: overline;
-	background-color: #000000;
+	background-color: #FFF3E0;
 	text-transform: lowercase;
-	border: 5px solid #000000;
-	box-shadow: none 0 0 10px #000000;
+	border: 5px solid #E67E22;
+	box-shadow: none 0 0 10px #E67E22;
 }
 
 .becauseCLetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
+	color: #8E44AD;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #F5E6FF;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #8E44AD;
 }
 
 .becauseALetter {
 	font-family: fantasy;
 	font-size: 40px;
-	color: #000000;
+	color: #3498DB;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #E0F7FF;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #3498DB;
 }
 
 .becauseULetter {
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 70px;
-	color: #000000;
+	color: #D35400;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #FFEEE6;
 	text-transform: unset;
-	border: 10px solid #000000;
+	border: 10px solid #D35400;
 }
 
 .becauseSLetter {
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	font-size: 50px;
-	color: #000000;
+	color: #16A085;
 	text-decoration: wavy;
-	background-color: #000000;
+	background-color: #E6FFF7;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #16A085;
 }
 
 .becauseETwoLetter {
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	font-size: 50px;
-	color: #000000;
+	color: #C0392B;
 	text-decoration: wavy;
-	background-color: #000000;
+	background-color: #FFE6E6;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #C0392B;
 }
 
 .theyTLetter {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 55px;
-	color: #000000;
+	color: #2980B9;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #E6F0FF;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #2980B9;
 }
 
 .theyHLetter {
 	font-family: 'Times New Roman', Times, serif;
 	font-size: 30px;
-	color: #000000;
+	color: #27AE60;
 	text-decoration: overline;
-	background-color: #000000;
+	background-color: #E6FFE6;
 	text-transform: lowercase;
-	border: 5px solid #000000;
-	box-shadow: none 0 0 10px #000000;
+	border: 5px solid #27AE60;
+	box-shadow: none 0 0 10px #27AE60;
 }
 
 .theyELetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
+	color: #8E44AD;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #F5E6FF;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #8E44AD;
 }
 
 .theyYLetter {
 	font-family: fantasy;
 	font-size: 40px;
-	color: #000000;
+	color: #E67E22;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #FFF3E0;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #E67E22;
 }
 
 .wantedWLetter {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 55px;
-	color: #000000;
+	color: #FF5733;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #FFF5F0;
 	text-transform: uppercase;
-	border: 10px solid #000000;
+	border: 10px solid #FF5733;
 }
 
 .wantedALetter {
 	font-family: 'Times New Roman', Times, serif;
 	font-size: 30px;
-	color: #000000;
+	color: #C0392B;
 	text-decoration: overline;
-	background-color: #000000;
+	background-color: #FFE6E6;
 	text-transform: lowercase;
-	border: 5px solid #000000;
-	box-shadow: none 0 0 10px #000000;
+	border: 5px solid #C0392B;
+	box-shadow: none 0 0 10px #C0392B;
 }
 
-.wantedNLetter {
+.wantedNLetter,
+.wantedTLetter,
+.wantedELetter,
+.wantedDLetter,
+.toTLetter,
+.toOLetter,
+.improveILetter,
+.improveMLetter,
+.improvePLetter,
+.improveRLetter,
+.improveOLetter, 
+.improveVLetter,
+.improveELetter{
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
+	color: #fffb00;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #ECF0F1;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.wantedTLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.wantedELetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.wantedDLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.toTLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.toOLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.improveILetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.improveMLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.improvePLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.improveRLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.improveOLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.improveVLetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
-}
-
-.improveELetter {
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
-	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #0079f1;
 }
 
 .theirTLetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
+	color: #ec00a5;
+	text-decoration:double;
+	background-color: #00f5e9;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #7e0000;
 }
 
 .theirHLetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
-	background-color: #000000;
+	color: #0031d3;
+	text-decoration:overline;
+	background-color: #4d0000;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #ffffff;
 }
 
 .theirELetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
+	color: #009ccc;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #ff0000;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #a6ff00;
 }
 
 .theirILetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
-	text-decoration: line-through;
+	color: #00f800;
+	text-decoration:dotted;
 	background-color: #000000;
 	text-transform: uppercase;
 	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
 }
 
 .theirRLetter {
@@ -796,43 +669,39 @@ body {
 	font-size: 60px;
 	color: #000000;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #ffffff;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #ff0000;
 }
 
 .rootRLetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
+	color: #fd0303;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #e5ff00;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #ff00aa;
 }
 
 .rootOLetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
+	color: #00ffc8;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #221313;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #c93737;
 }
 
 .rootOTwoLetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 60px;
-	color: #000000;
+	color: #b9b9b9;
 	text-decoration: line-through;
-	background-color: #000000;
+	background-color: #3600cc;
 	text-transform: uppercase;
-	border: 6px solid #000000;
-	box-shadow: 0 -3px 3em rgba(74,121,74,0.3), ;
+	border: 6px solid #bb0000;
 }
 
 .rootTLetter {
