@@ -602,27 +602,136 @@ body {
 	box-shadow: 0 0 10px #C0392B;
 }
 
-.wantedNLetter,
-.wantedTLetter,
-.wantedELetter,
-.wantedDLetter,
-.toTLetter,
-.toOLetter,
-.improveILetter,
-.improveMLetter,
-.improvePLetter,
-.improveRLetter,
-.improveOLetter, 
-.improveVLetter,
-.improveELetter{
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	font-size: 60px;
-	color: #fffb00;
-	text-decoration: line-through;
-	background-color: #ECF0F1;
-	text-transform: uppercase;
-	border: 6px solid #0079f1;
+.wantedNLetter {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+  color: #e74c3c;
+  background-color: #f9f9f9;
+  text-decoration: underline;
+  text-transform: uppercase;
+  border: 3px dashed #c0392b;
 }
+
+.wantedTLetter {
+  font-family: 'Arial Black', Gadget, sans-serif;
+  font-size: 58px;
+  color: #2ecc71;
+  background-color: #ffffff;
+  text-decoration: none;
+  text-transform: capitalize;
+  border: 4px double #27ae60;
+}
+
+.wantedELetter {
+  font-family: 'Lucida Console', Monaco, monospace;
+  font-size: 62px;
+  color: #8e44ad;
+  background-color: #f0f0f0;
+  text-decoration: overline;
+  text-transform: lowercase;
+  border: 5px dotted #9b59b6;
+}
+
+.wantedDLetter {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 64px;
+  color: #34495e;
+  background-color: #ecf0f1;
+  text-decoration: line-through;
+  text-transform: uppercase;
+  border: 2px solid #2c3e50;
+}
+
+.toTLetter {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 55px;
+  color: #f39c12;
+  background-color: #fafafa;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 6px groove #f1c40f;
+}
+
+.toOLetter {
+  font-family: Georgia, serif;
+  font-size: 60px;
+  color: #1abc9c;
+  background-color: #ffffff;
+  text-decoration: underline overline;
+  text-transform: uppercase;
+  border: 4px inset #16a085;
+}
+
+.improveILetter {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 57px;
+  color: #2980b9;
+  background-color: #eaf2f8;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 3px solid #2471a3;
+}
+
+.improveMLetter {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 59px;
+  color: #d35400;
+  background-color: #fdf2e9;
+  text-decoration: line-through;
+  text-transform: uppercase;
+  border: 5px ridge #e67e22;
+}
+
+.improvePLetter {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 61px;
+  color: #7f8c8d;
+  background-color: #ecf0f1;
+  text-decoration: underline;
+  text-transform: uppercase;
+  border: 2px dashed #95a5a6;
+}
+
+.improveRLetter {
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 56px;
+  color: #c0392b;
+  background-color: #fbeee6;
+  text-decoration: overline;
+  text-transform: lowercase;
+  border: 3px solid #e74c3c;
+}
+
+.improveOLetter {
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 63px;
+  color: #3498db;
+  background-color: #ebf5fb;
+  text-decoration: none;
+  text-transform: capitalize;
+  border: 4px dotted #2980b9;
+}
+
+.improveVLetter {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 54px;
+  color: #27ae60;
+  background-color: #e9f7ef;
+  text-decoration: line-through;
+  text-transform: uppercase;
+  border: 2px groove #2ecc71;
+}
+
+.improveELetter {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 60px;
+  color: #9b59b6;
+  background-color: #f5eef8;
+  text-decoration: underline;
+  text-transform: uppercase;
+  border: 3px double #8e44ad;
+}
+
 
 .theirTLetter {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
